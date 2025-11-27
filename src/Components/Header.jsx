@@ -70,14 +70,14 @@ function Header() {
         <div className="md:hidden bg-slate-900 py-4 px-6">
           <ul className="flex flex-col gap-4 text-lg">
             {links.map((link) => (
-              <li
+              <a
                 key={link.key}
                 href={link.link}
                 className="hover:text-blue-400 text-center transition cursor-pointer"
                 onClick={() => setOpen(false)}
               >
                 {link.title}
-              </li>
+              </a>
             ))}
           </ul>
         </div>
