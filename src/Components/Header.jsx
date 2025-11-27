@@ -72,6 +72,7 @@ function Header() {
             {links.map((link) => (
               <li
                 key={link.key}
+                href={link.link}
                 className="hover:text-blue-400 text-center transition cursor-pointer"
                 onClick={() => setOpen(false)}
               >
