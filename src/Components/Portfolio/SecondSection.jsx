@@ -17,7 +17,7 @@ const data = [
   {
     title: "Web Trending Movies",
     img: Movies,
-    link: "https://github.com/Youssefkhalil10/React-Projects/tree/main/finalproject",
+    link: "https://react-projects-nine-kohl.vercel.app/",
   },
   {
     title: "Eat-n-split",
