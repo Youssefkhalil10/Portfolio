@@ -1,16 +1,78 @@
-# React + Vite
+# 🌐 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This project showcases my work as a Front-End Developer using modern technologies like React and Vite.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:**  
+https://portfolio-seven-cyan-28.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio highlights a collection of my projects, skills, and experience in web development.  
+It is built with performance and clean UI in mind.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Tailwind CSS
+- Framer Motion
+
+---
+
+## 📂 Featured Projects
+
+### 1️⃣ Solar System
+🔗 https://youssefkhalil10.github.io/Solar-System/  
+A visual interactive solar system project.
+
+---
+
+### 2️⃣ E-Commerce Website
+🔗 https://e-commerce-web-masters-seven.vercel.app/  
+A modern e-commerce web application.
+
+---
+
+### 3️⃣ Trending Movies App
+🔗 https://react-projects-nine-kohl.vercel.app/  
+A web app to explore trending movies.
+
+---
+
+### 4️⃣ Dashboard App
+🔗 https://dash-board-two-pi.vercel.app/  
+A responsive dashboard UI with a clean design.
+
+---
+
+### 5️⃣ Eat-n-Split App
+🔗 https://eat-n-split-gold.vercel.app/  
+A simple app to split expenses between friends.
+
+---
+
+## ⚡ Features
+
+- Responsive Design 📱
+- Smooth Animations 🎬
+- Lazy Loading Components ⚡
+- Clean UI & UX 🎨
+
+---
+
+## 📦 Installation
+
+If you want to run the project locally:
+
+```bash
+git clone https://github.com/Youssefkhalil10/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
