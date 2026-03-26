@@ -17,10 +17,10 @@ const data = [
   {
     title: "Web Trending Movies",
     img: Movies,
-    link: "https://react-projects-nine-kohl.vercel.app/",
+    link: "https://trending-movies-gamma.vercel.app/",
   },
   {
-    title: "Eat-n-split",
+    title: "Eat-n-Split",
     img: Eat,
     link: "https://eat-n-split-gold.vercel.app/",
   },
