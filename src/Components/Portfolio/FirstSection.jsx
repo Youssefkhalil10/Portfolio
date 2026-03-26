@@ -1,3 +1,5 @@
+import { lazy } from "react";
+// const Img = lazy(() => import("../../assets/Profile Picture .jpg"));
 import Img from "../../assets/Profile Picture .jpg";
 import background from "../../assets/Hero Background.svg";
 import { FaGithub, FaLinkedin, FaFacebook, FaWhatsapp } from "react-icons/fa";
@@ -19,6 +21,7 @@ function FirstSection() {
           </p>
           <span className="flex gap-7 text-3xl">
             <span className="text-xl">Check out my social</span>
+
             <a href="https://github.com/Youssefkhalil10" target="_blanck">
               <FaGithub className="hover:text-gray-400 duration-200" />
             </a>

@@ -1,8 +1,8 @@
-import Solar from "../../assets/Solar System.png";
-import E_commerce from "../../assets/E-commerce.png";
 import Movies from "../../assets/Movies.png";
 import Eat from "../../assets/Eat-n-split.png";
 import Dash_bord from "../../assets/Dash Bord.png";
+import Solar from "../../assets/Solar System.png";
+import E_commerce from "../../assets/E-commerce.png";
 const data = [
   {
     title: "Solar System",
