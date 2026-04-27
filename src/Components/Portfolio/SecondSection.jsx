@@ -1,13 +1,14 @@
 import Movies from "../../assets/Movies.png";
-import Eat from "../../assets/Eat-n-split.png";
+import papaJohns from "../../assets/papaJohns.png";
 import Dash_bord from "../../assets/Dash Bord.png";
+import Pizza from "../../assets/Fast React Pizza.png";
 import Solar from "../../assets/Solar System.png";
 import E_commerce from "../../assets/E-commerce.png";
 const data = [
   {
-    title: "Solar System",
-    img: Solar,
-    link: "https://youssefkhalil10.github.io/Solar-System/",
+    title: "Fast React Pizza",
+    img: Pizza,
+    link: "https://fast-react-pizza-rust-nine.vercel.app/",
   },
   {
     title: "E-Commerce",
@@ -20,14 +21,20 @@ const data = [
     link: "https://trending-movies-gamma.vercel.app/",
   },
   {
-    title: "Eat-n-Split",
-    img: Eat,
-    link: "https://eat-n-split-gold.vercel.app/",
+    title: "Papa johns Resturant",
+    img: papaJohns,
+    link: "https://papa-johns-web-master.vercel.app/",
   },
+  //2
   {
     title: "Dash Board",
     img: Dash_bord,
     link: "https://dash-board-two-pi.vercel.app/",
+  },
+  {
+    title: "Solar System",
+    img: Solar,
+    link: "https://youssefkhalil10.github.io/Solar-System/",
   },
 ];
 
