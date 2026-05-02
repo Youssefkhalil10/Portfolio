@@ -1,4 +1,3 @@
-import { lazy } from "react";
 // const Img = lazy(() => import("../../assets/Profile Picture .jpg"));
 import Img from "../../assets/Profile Picture .jpg";
 import background from "../../assets/Hero Background.svg";
@@ -26,7 +25,7 @@ function FirstSection() {
               <FaGithub className="hover:text-gray-400 duration-200" />
             </a>
             <a
-              href="https://linkedin.com/in/youssef-khalil-796a23333"
+              href="https://www.linkedin.com/in/youssef-khalil-21ab23278"
               target="_blanck"
             >
               <FaLinkedin className="hover:text-blue-400 duration-200" />
