@@ -1,12 +1,6 @@
 import { lazy, Suspense } from "react";
 import "./App.css";
 
-// import Footer from "./Components/Footer";
-// import Header from "./Components/Header";
-// import FirstSection from "./Components/Portfolio/FirstSection";
-// import SecondSection from "./Components/Portfolio/SecondSection";
-// import AboutMe from "./Components/Portfolio/AboutMe";
-
 const Footer = lazy(() => import("./Components/Footer"));
 const Header = lazy(() => import("./Components/Header"));
 
