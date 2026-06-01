@@ -16,10 +16,10 @@ import { TbApi } from "react-icons/tb";
 import { SiFormspree } from "react-icons/si";
 function Skills() {
   return (
-    <div className="p-6 rounded-lg shadow-lg">
+    <div className="p-2 sm:p-6 rounded-lg shadow-lg">
       <h3 className="text-2xl font-bold mb-4 text-blue-500">Skills</h3>
 
-      <ul className="text-white leading-relaxed space-y-3">
+      <ul className="text-white leading-relaxed text-sm sm:text-base space-y-3">
         {/* Core */}
         <li className="flex items-center gap-2">
           <FaHtml5 className="text-orange-600" />
