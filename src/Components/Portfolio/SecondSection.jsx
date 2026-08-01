@@ -4,7 +4,13 @@ import Dash_bord from "../../assets/Dash Bord.png";
 import Pizza from "../../assets/Fast React Pizza.png";
 import Solar from "../../assets/Solar System.png";
 import E_commerce from "../../assets/E-commerce.png";
+import Hotel from "../../assets/The-wild-oasis hotel.png";
 const data = [
+  {
+    title: "The Wild Oasis Hotel ",
+    img: Hotel,
+    link: "https://the-wild-oasis-liart-delta.vercel.app/",
+  },
   {
     title: "Fast React Pizza",
     img: Pizza,
