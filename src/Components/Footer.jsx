@@ -1,15 +1,12 @@
 import { FaGithub, FaLinkedin, FaFacebook, FaWhatsapp } from "react-icons/fa";
 
 function Footer() {
-  const currentYear = new Date().getFullYear(); // السنة الحالية
-
+  const currentYear = new Date().getFullYear();
   return (
     <footer className="bg-slate-900 text-white py-10">
       <div className="text-center space-y-6">
-        {/* العنوان */}
         <h1 className="text-3xl font-bold text-blue-400">Contact With Me</h1>
 
-        {/* أيقونات السوشيال */}
         <div className="flex justify-center gap-7 text-3xl">
           <a
             href="https://github.com/Youssefkhalil10"
@@ -19,7 +16,7 @@ function Footer() {
             <FaGithub className="hover:text-gray-400 duration-200" />
           </a>
           <a
-            href="https://linkedin.com/in/youssef-khalil-796a23333"
+            href="https://www.linkedin.com/in/youssef-khalil-21ab23278"
             target="_blank"
             rel="noopener noreferrer"
           >
