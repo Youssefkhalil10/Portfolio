@@ -7,7 +7,7 @@ import E_commerce from "../../assets/E-commerce.png";
 import Hotel from "../../assets/The-wild-oasis hotel.png";
 const data = [
   {
-    title: "The Wild Oasis Hotel ",
+    title: "The Wild Oasis Hotel Desktop App ",
     img: Hotel,
     link: "https://the-wild-oasis-liart-delta.vercel.app/",
   },
