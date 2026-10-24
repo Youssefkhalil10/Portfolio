@@ -5,7 +5,13 @@ import Pizza from "../../assets/Fast React Pizza.png";
 import Solar from "../../assets/Solar System.png";
 import E_commerce from "../../assets/E-commerce.png";
 import Hotel from "../../assets/The-wild-oasis hotel.png";
+import guestBooking from "../../assets/Oasis Guest Booking.png";
 const data = [
+  {
+    title: "The Oasis Guest Booking Desktop App ",
+    img: guestBooking,
+    link: "https://wild-oasis-guest-booking.vercel.app/",
+  },
   {
     title: "The Wild Oasis Hotel Desktop App ",
     img: Hotel,
