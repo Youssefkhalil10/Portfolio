@@ -10,6 +10,7 @@ import {
   SiReactquery,
   SiAxios,
   SiTestinglibrary,
+  SiNextdotjs,
 } from "react-icons/si";
 
 import { TbApi } from "react-icons/tb";
@@ -39,6 +40,10 @@ function Skills() {
         <li className="flex items-center gap-2">
           <FaReact className="text-blue-500" />
           <strong>React.js:</strong> Components, Hooks, Routing
+        </li>
+        <li className="flex items-center gap-2">
+          <SiNextdotjs className="text-black-500" />
+          <strong>Next.js:</strong> App & Pages Router
         </li>
 
         <li className="flex items-center gap-2">
