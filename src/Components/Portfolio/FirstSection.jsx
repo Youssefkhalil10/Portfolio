@@ -16,7 +16,7 @@ function FirstSection() {
             Hi, I'm <span className="text-blue-400">Youssef</span>
           </h1>
           <p className="text-lg md:text-2xl opacity-80">
-            Front-End React.js Developer
+            Front-End React.js & Next.js Developer
           </p>
           <span className="flex gap-7 text-3xl">
             <span className="text-xl">Check out my social</span>
